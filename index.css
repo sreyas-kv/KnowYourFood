@@ -1,0 +1,94 @@
+body{
+	background: 
+	linear-gradient(
+		rgba(0,0,0,0.6),
+		rgba(0,0,0,0.6)
+		),
+	url("https://images.pexels.com/photos/811101/pexels-photo-811101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    /*background-repeat: no-repeat;*/
+	/*padding: 20px 0px 0px 20px;*/
+}
+
+header{
+	margin-top: 50px;
+	font-family: IBM Plex Mono;
+	text-align: center;
+	color: #eff2f9;
+}
+
+.para-1{
+	font-family: 'Abel', sans-serif;
+	padding-left: 30px;
+	color: #eff2f9 ;
+/*	margin: 20% 30% 8% 30%;*/
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+}
+
+.container{
+	/*border: solid red 5px;*/
+	margin: 20% 30% 8% 30%;
+}
+
+
+.input-food{
+  	/*margin-left: 33%;
+  	margin-top: 20px;*/
+ 	display: inline-block;
+    float: center;
+    clear: center;
+
+    width: 325px;
+    height: 30px;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 15px;
+    border-radius: 6px;
+    color: #5b6875;
+}
+
+.js-search-form{
+	padding: 10px 10px 0px 30px;
+}
+
+.check-button{
+margin-left: 10px;
+height: 35px;
+font-size: 15px;
+border-radius: 6px;
+color:#ffffff;
+background-color: #829bb5;
+}
+.product-name{
+	/*padding: 20px 0px 0px 20px;*/
+	font-size: 20px;
+	color: #eff2f9;
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+}
+
+.ingredients{
+	font-family: 'Abel', sans-serif;
+/*	padding: 10px 0px 0px 20px;*/
+	font-size: 15px;
+	color: #e0f3ff;
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+}
+
+.toxin-check{
+/*	padding: 10px 0px 0px 20px;*/
+	font-size: 20px;
+	color: #eff2f9;
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+}
+
+.toxin-result{
+	color: red;
+	font-weight: bold;
+}
+.non-toxin{
+	color: #A4FF3F;
+}
