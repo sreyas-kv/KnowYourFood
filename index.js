@@ -41,7 +41,7 @@ function getNutrients(ndbNo, callBack){
 
 function displayFoodSearchResults(data){
   if(data.errors){
-    alert('No Results found');
+    alert('No Results found. Enter the food brand name again');
   }
   else {
   const results = data.list.item.map((item, index) => {
