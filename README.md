@@ -1,5 +1,5 @@
 # capstone_one
-This Web app allows to check for the toxins in the branded food products.
+Know your food! Web app allows to check for the toxins in the branded food products.
 
 How to check
 Enter the complete food name in the search box and hit the check it button
