@@ -92,3 +92,70 @@ background-color: #829bb5;
 .non-toxin{
 	color: #A4FF3F;
 }
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+.container{
+	margin: 20% 20% 8% 15%;
+}
+
+.input-food{
+	width: 280px;
+}
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+.container{
+	margin: 5% 5% 8% 2.5%;
+}
+
+.input-food{
+	width: 260px;
+    height: 20px;
+    padding-left: 5px;
+    text-align: left;
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+.check-button{
+margin-left: 30%;
+margin-right: 30%;
+margin-top: 7%;
+height: 20px;
+font-size: 12px;
+border-radius: 3px;
+}
+
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+.container{
+	margin: 10% 10% 18% 5%;
+}
+
+.input-food{
+	width: 260px;
+    height: 20px;
+    padding-left: 5px;
+    text-align: left;
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+.check-button{
+margin-left: 30%;
+margin-right: 30%;
+margin-top: 7%;
+height: 20px;
+font-size: 12px;
+border-radius: 3px;
+
+}
+
+}
+
+
+
