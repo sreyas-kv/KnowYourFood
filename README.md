@@ -1,4 +1,4 @@
-# capstone_one
+# Know your food!
 Know your food! Web app allows to check for the toxins in the branded food products.
 
 How to check
