@@ -9,4 +9,4 @@ URL: https://sreyas-kv.github.io/KnowYourFood/
 
 Some Screenshots!
 
-![Alt text].(https://user-images.githubusercontent.com/15713000/52543666-90c21d00-2d68-11e9-9263-36bff7474941.png)
+![Alt text](https://user-images.githubusercontent.com/15713000/52543666-90c21d00-2d68-11e9-9263-36bff7474941.png)
