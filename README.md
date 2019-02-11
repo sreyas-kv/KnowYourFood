@@ -6,6 +6,7 @@ Enter the complete food name in the search box and hit the check it button
 The results will show the priduct name and the ingridents and also will show the toxin content in the food product.
 URL: https://sreyas-kv.github.io/KnowYourFood/
 
+This app is build with Javascript, HTML and css
 
 Some Screenshots!
 
